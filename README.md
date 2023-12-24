@@ -102,7 +102,7 @@ npm uninstall package-name@version
 npm install package-name@new_version
 ```
 
-Now, download the `Expo Go`, app on Android or use the camera app on IOS. Run the following command:
+Now, download the `Expo Go`, app on Android or use the camera app on IOS. Run the following command in Terminal:
 
 ```
 npx expo start
