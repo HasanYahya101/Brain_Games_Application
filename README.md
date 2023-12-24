@@ -6,7 +6,7 @@ This Application is made using React Native to allow it to work on Android and I
 
 You also, need `node` and `npm` installed as well as `npx`.To download `npm` use this [link](https://www.npmjs.com/package/download). To download `node`, use this [link](https://nodejs.org/en/download). However for `node`, i suggest using a version manager for `javascript`, such as `nvm` instead which you can get by following instructions given [here](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/).
 
-Also, you can also download `yarn`, instead of `npm`, by following instructions given [here](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable). To download `npx` enter this command in powershell or command-line after you have installed `npm`.
+Also, you can also download `yarn`, instead of `npm`, by following instructions given [here](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable). However, i suggest using `npm`. To download `npx` enter this command in powershell or command-line after you have installed `npm`.
 
 ```
 npm install -g npx
