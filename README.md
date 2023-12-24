@@ -109,3 +109,14 @@ npx expo start
 ```
 
 You can scan the given QR Code using the Expo app on android or the camera app on ios. Your app should run on your device.
+
+## Preview:
+
+This video is for the main Game (after logging in).
+
+https://github.com/HasanYahya101/Brain_Games_Application/assets/118683092/03f5feb6-691a-4538-9db7-84b67947a6eb
+
+This video is for the Authentication System. The video has been cut at parts that might contain any sensitive information.
+
+https://github.com/HasanYahya101/Brain_Games_Application/assets/118683092/0a63a9a2-32c8-4330-a202-1baa32b90dfa
+
