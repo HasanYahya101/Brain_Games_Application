@@ -1,6 +1,6 @@
 # Brain Games Application (React Native using Expo Go)
 
-This Application is made using React Native to allow it to work on Android and IOS. You need several Node Modules to run this project. This project is a copy of [Elevate App](https://elevateapp.com/) for Human Computer Interaction Course Project. However, i was unable to complete this project (with all features) in time. Therefore, this app only has a limited set iof games. Similarly, the Assets in `assets` folder are not all used. But, i put them there just in case. 
+This Application is made using React Native to allow it to work on Android and IOS. You need several Node Modules to run this project. This project is a copy of [Elevate App](https://elevateapp.com/) for Human Computer Interaction Course Project. However, i was unable to complete this project (with all features) in time. Therefore, this app only has a limited set of games. Similarly, the Assets in `assets` folder are not all used. But, i put them there just in case. 
 
 ## Pre-Requisites:
 
