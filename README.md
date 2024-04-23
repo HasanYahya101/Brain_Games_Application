@@ -8,7 +8,7 @@ You also, need `node` and `npm` installed as well as `npx`.To download `npm` use
 
 Also, you can also download `yarn`, instead of `npm`, by following instructions given [here](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable). However, i suggest using `npm`. To download `npx` enter this command in powershell or command-line after you have installed `npm`.
 
-```
+```cmd
 npm install -g npx
 ```
 
