@@ -18,7 +18,7 @@ However, if you are using `yarn`, instead of `npm`, you don't need to download `
 
 Firstly, Download the Repository (you only need the `App.js` file and the `app` and `assets` folders). After that run the following command to create an expo starter project.
 
-```cmd
+```
 npx create-expo-app my-app // replace my-app with the name of your application
 ```
 
@@ -30,7 +30,7 @@ npx create-expo-app BrainTrainRN
 
 After creating the Application Template. Go to it. For example:
 
-```cmd
+```
 cd my-app
 
 // Or if you have named it something else use that name instead.
@@ -94,7 +94,7 @@ npx expo-doctor
 
 If there are any compatibility issues, uninstall the previous ones and install the new ones. For uninstalling using `npm`, use the `uninstall` command instead of `install`. For example:
 
-```cmd
+```
 npm uninstall package-name@version
 
 // then install new one using
