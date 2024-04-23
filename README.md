@@ -18,19 +18,19 @@ However, if you are using `yarn`, instead of `npm`, you don't need to download `
 
 Firstly, Download the Repository (you only need the `App.js` file and the `app` and `assets` folders). After that run the following command to create an expo starter project.
 
-```
+```cmd
 npx create-expo-app my-app // replace my-app with the name of your application
 ```
 
 For example, if my app name is __BrainTrainRN__, then i will use the command:
 
-```
+```cmd
 npx create-expo-app BrainTrainRN
 ```
 
 After creating the Application Template. Go to it. For example:
 
-```
+```cmd
 cd my-app
 
 // Or if you have named it something else use that name instead.
@@ -41,7 +41,7 @@ cd BrainTrainRN
 
 After this run this command in the root folder to create the `node_modules` folder.
 
-```
+```cmd
 npm install
 ```
 
@@ -49,7 +49,7 @@ Now, open the App.js in the newly created project and copy the code from `App.js
 
 After this you need to install some `npm` packages. To download them use the commands given below one by one.
 
-```
+```cmd
 npm install @expo/webpack-config@19.0.0
 npm install @react-native-async-storage/async-storage@1.18.2"
 npm install @react-native-community/masked-view@0.1.11"
@@ -82,19 +82,19 @@ npm install expo-doctor@1.3.0
 
 If you are using `yarn` you can download them using:
 
-```
+```cmd
 yarn add package_name@1.2.3
 ```
 
 After installing all of them check the compatibility using:
 
-```
+```cmd
 npx expo-doctor
 ```
 
 If there are any compatibility issues, uninstall the previous ones and install the new ones. For uninstalling using `npm`, use the `uninstall` command instead of `install`. For example:
 
-```
+```cmd
 npm uninstall package-name@version
 
 // then install new one using
@@ -104,7 +104,7 @@ npm install package-name@new_version
 
 Now, download the `Expo Go`, app on Android or use the camera app on IOS. Run the following command in Terminal:
 
-```
+```cmd
 npx expo start
 ```
 
